@@ -1,4 +1,3 @@
-Here's the updated README file, including details about the `debug_mode` feature:
 
 ---
 
