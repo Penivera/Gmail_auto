@@ -9,7 +9,7 @@ This Python script automates the process of creating Gmail accounts. It leverage
 - Fills in the registration form with these details, including a randomly generated birthday and gender.
 - Automatically skips optional fields (such as phone number and recovery email).
 - Saves the newly created email addresses and passwords to a CSV file for future reference.
-WRITTEN BY PENIEL @ http://github.com/SpiDher
+WRITTEN BY PENIEL @ http://github.com/Penivera
 
 ## Prerequisites
 
